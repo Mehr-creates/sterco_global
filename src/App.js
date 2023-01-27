@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-         Sterco Globals sss
+         Sterco Globals testing
+         Hello hello hello
       </header>
     </div>
   );
